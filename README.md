@@ -1,12 +1,3 @@
-====================================
-            Projet Fedéré
-====================================
-        Tools Used
-
-- VsCode
-- XAMPP
-- Browser
-====================================
         Techno Used
 
 - HTML5 AND CSS3 IS USED TO DEVELOP FRONT-END.
@@ -15,5 +6,5 @@
 - MySQL for database server & SQL for operation.
 - MYSQL WORKBENCH FOR CREATING TABLES AND LOCALHOST.
 - XAMPP FOR CREATING VIRTUAL SERVER AND INTERNET BROWSER.
-====================================
+
 
